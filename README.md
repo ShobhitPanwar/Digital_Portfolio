@@ -62,5 +62,5 @@ Used Facebook’s Prophet library to create a model which forecasts the death ra
 Libraries/tools: Tableau, Prophet, numpy, pandas, seaborn, matplotlib, plotly, jinja2, datetime. <br>
 
 ## Contact Information
-Email: Shobhitpanwar7@gmail.com
+Email: Shobhitpanwar7@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/shobhit-panwar-4b56b013b/
