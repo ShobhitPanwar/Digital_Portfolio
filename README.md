@@ -25,6 +25,7 @@ Durham College | April 2023 - Present | Ontario, Canada <br>
 3. Utilized Python programming language to develop and optimize machine learning models. <br>
 4. Contributed to the design and execution of experiments to evaluate model performance and accuracy. <br>
 5. Presented research findings to both technical and non-technical audiences through oral presentations and written reports. <br>
+
 ### Software Developer
 Tech Mahindra | January 2022 - December 2022
 
