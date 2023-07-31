@@ -40,6 +40,7 @@ To achieve this, I utilized popular deep learning libraries such as Keras and Te
 During the training phase, the model learned to distinguish various alphabets and achieved an impressive 93% accuracy rate in classifying and recognizing them. The project's success lies in its ability to accurately identify handwritten alphabets, which can have numerous applications, such as handwriting recognition systems and educational tools. <br>
 
 [Created an in-built Python prompt to detect spam emails](https://github.com/ShobhitPanwar/Machine-learning/blob/main/Email_program.ipynb)
+
 The objective of this project was to develop an in-built Python prompt capable of detecting spam emails effectively. The goal was to create a model that could discern whether an email was spam or legitimate based on its content and characteristics.
 To achieve this, I employed the Naïve Bayes algorithm, a popular and effective technique for text classification tasks. The model was trained using a labeled dataset containing examples of both spam and non-spam emails. Features such as word frequency and word presence were used to represent the emails' content.
 To enhance security and privacy, I ensured that the user's password was encrypted and that login credentials were securely stored in a database. The resulting spam email detector could quickly and accurately classify incoming emails, reducing the risk of users falling victim to spam and phishing attacks. <br>
