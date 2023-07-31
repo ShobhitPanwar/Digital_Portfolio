@@ -33,13 +33,13 @@ At Wipro Limited, I worked on developing cutting-edge software for industry gian
 ## Educational Projects
 ### Handwritten Alphabet Recognizer Using Python
 
-In this project, I developed a user interface to recognize handwritten English alphabets using deep learning techniques. The main objective was to create a convolution neural network (CNN) that could accurately classify and recognize different alphabets from handwritten images. <br>
-To achieve this, I utilized popular deep learning libraries such as Keras and TensorFlow. The training dataset consisted of approximately 800,000 images of handwritten alphabets. I preprocessed the data to ensure uniformity and quality. The CNN architecture was designed to effectively capture relevant features from the input images. <br>
+In this project, I developed a user interface to recognize handwritten English alphabets using deep learning techniques. The main objective was to create a convolution neural network (CNN) that could accurately classify and recognize different alphabets from handwritten images.
+To achieve this, I utilized popular deep learning libraries such as Keras and TensorFlow. The training dataset consisted of approximately 800,000 images of handwritten alphabets. I preprocessed the data to ensure uniformity and quality. The CNN architecture was designed to effectively capture relevant features from the input images.
 During the training phase, the model learned to distinguish various alphabets and achieved an impressive 93% accuracy rate in classifying and recognizing them. The project's success lies in its ability to accurately identify handwritten alphabets, which can have numerous applications, such as handwriting recognition systems and educational tools. <br>
 
 ### Created an in-built Python prompt to detect spam emails.
-The objective of this project was to develop an in-built Python prompt capable of detecting spam emails effectively. The goal was to create a model that could discern whether an email was spam or legitimate based on its content and characteristics. <br>
-To achieve this, I employed the Naïve Bayes algorithm, a popular and effective technique for text classification tasks. The model was trained using a labeled dataset containing examples of both spam and non-spam emails. Features such as word frequency and word presence were used to represent the emails' content. <br>
+The objective of this project was to develop an in-built Python prompt capable of detecting spam emails effectively. The goal was to create a model that could discern whether an email was spam or legitimate based on its content and characteristics.
+To achieve this, I employed the Naïve Bayes algorithm, a popular and effective technique for text classification tasks. The model was trained using a labeled dataset containing examples of both spam and non-spam emails. Features such as word frequency and word presence were used to represent the emails' content.
 To enhance security and privacy, I ensured that the user's password was encrypted and that login credentials were securely stored in a database. The resulting spam email detector could quickly and accurately classify incoming emails, reducing the risk of users falling victim to spam and phishing attacks. <br>
 
 ## Contact Information
