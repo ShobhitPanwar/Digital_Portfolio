@@ -20,30 +20,44 @@ Bachelor of Technology, DIT University, Dehradun, Uttarakhand, India, 2019, GPA:
 ### Research Assistant
 Durham College | April 2023 - Present | Ontario, Canada <br>
 
-As a Research Assistant at Durham College, I have been actively involved in developing and implementing machine learning models for fraud detection. My responsibilities include conducting data analysis, preprocessing large datasets, and optimizing machine learning models. I have presented my research findings through oral presentations and written reports, effectively communicating complex technical concepts to both technical and non-technical audiences.
-
+Collaborated with a team of researchers to develop and implement machine learning models for fraud detection. <br>
+Conducted data analysis and preprocessing to identify patterns and anomalies in large datasets. <br>
+Utilized Python programming language to develop and optimize machine learning models. <br>
+Contributed to the design and execution of experiments to evaluate model performance and accuracy. <br>
+Presented research findings to both technical and non-technical audiences through oral presentations and written reports. <br>
 ### Software Developer
 Tech Mahindra | January 2022 - December 2022
 
-During my tenure as a Software Developer at Tech Mahindra, I significantly contributed to the Rakuten Symphony client, where my expertise in C/C++ and Git version control played a crucial role. Spearheading the development of the PTP protocol stack for 4G-5G, OAM, and platform teams, I achieved efficiency improvements of 15%. Additionally, I collaborated seamlessly on radio units and distributed units, resulting in a 20% reduction in development time.
+Leveraged C/C++ expertise and Git version control to contribute significantly to Rakuten Symphony client, delivering impactful results. <br>
+Spearheaded the development of the PTP protocol stack for 4G-5G, OAM, and platform teams, driving efficiency improvements by 15%. <br>
+Collaborated seamlessly on different radio units (RU) and distributed units (DU), achieving a 20% reduction in development time. <br>
+Played a key role in projects involving Ublox GNSS modules, resulting in a 10% improvement in system functionality. <br>
+Automated testing scripts using Python, reducing testing time by 20% and enhancing overall testing accuracy. <br>
+Created system requirements, technical specifications, and test plans, ensuring successful project execution with an 18% reduction in errors. <br>
 
 ### Software Developer
 Wipro Limited | August 2019 - January 2022 <br>
 
-At Wipro Limited, I worked on developing cutting-edge software for industry giants Cisco and Rockwell Automation. My contributions involved implementing and optimizing L2/L3 networking protocols, resolving bugs, and improving protocol efficiency by 8%. I also played a key role in automating testing scripts using Python, reducing testing time by 13% and enhancing overall accuracy. Collaborating with the TAC team, I provided expert support in customer issue resolution, leading to a high customer satisfaction rating of 94%.
+Developed cutting-edge software for industry giants Cisco and Rockwell Automation, utilizing C/C++ and Unix. Employed version control systems ClearCase, ACME, and Git, ensuring streamlined development processes. <br>
+Successfully implemented and optimized L2/L3 networking protocols, resolving bugs in critical protocols such as PTP, MACSec, PRP, REP, VLAN, STP, ARP, and TCP, resulting in an 8% improvement in protocol efficiency. <br>
+Improved testing processes by automating scripts using Python, resulting in increased efficiency and accuracy while reducing testing time by 13%. <br>
+Drove innovation by designing and developing new features, conducting rigorous unit testing, performing bug fixing, and actively participating in code reviews, ensuring high-quality code and reducing error rates by 6%. <br>
+Collaborated seamlessly with the TAC team, providing expert support in handling customer issues and ensuring the timely delivery of CISCO IE switches (e.g., IE2000, IE4000, IE4010, IE5000) and RA startix switches (e.g., s5400, s5410), achieving a customer satisfaction rating of 94%. <br>
 
 ## Educational Projects
 [Handwritten Alphabet Recognizer Using Python](https://github.com/ShobhitPanwar/Machine-learning/blob/main/Alphabet%20Recognition%20with%20CNN%20(2)%202.ipynb)
 
-In this project, I developed a user interface to recognize handwritten English alphabets using deep learning techniques. The main objective was to create a convolution neural network (CNN) that could accurately classify and recognize different alphabets from handwritten images.
-To achieve this, I utilized popular deep learning libraries such as Keras and TensorFlow. The training dataset consisted of approximately 800,000 images of handwritten alphabets. I preprocessed the data to ensure uniformity and quality. The CNN architecture was designed to effectively capture relevant features from the input images.
-During the training phase, the model learned to distinguish various alphabets and achieved an impressive 93% accuracy rate in classifying and recognizing them. The project's success lies in its ability to accurately identify handwritten alphabets, which can have numerous applications, such as handwriting recognition systems and educational tools. <br>
+Created a user interface to recognize the handwritten English alphabet. <br>
+Utilized deep learning techniques to implement a convolution neural network (CNN) to build an alphabet recognizer model. <br>
+Trained the model with a dataset of 800,000 images, and achieved a 93% accuracy rate in classifying and recognizing different alphabets. <br>
+Libraries/Tools used: Keras, TensorFlow, scikit-learn, gradio, PIL, pandas, numpy, seaborn, and matplotlib. <br>
 
 [Created an in-built Python prompt to detect spam emails](https://github.com/ShobhitPanwar/Machine-learning/blob/main/Email_program.ipynb)
 
-The objective of this project was to develop an in-built Python prompt capable of detecting spam emails effectively. The goal was to create a model that could discern whether an email was spam or legitimate based on its content and characteristics.
-To achieve this, I employed the Naïve Bayes algorithm, a popular and effective technique for text classification tasks. The model was trained using a labeled dataset containing examples of both spam and non-spam emails. Features such as word frequency and word presence were used to represent the emails' content.
-To enhance security and privacy, I ensured that the user's password was encrypted and that login credentials were securely stored in a database. The resulting spam email detector could quickly and accurately classify incoming emails, reducing the risk of users falling victim to spam and phishing attacks. <br>
+Created an in-built Python prompt to detect spam emails. <br>
+Used Naïve Bayes to create a model which detected whether an email was spam or not. <br>
+Ensured the user’s password was encrypted and login credentials stored in the database. <br>
+Libraries/Tools used: sqlite3, scikit-learn, pandas, and string. <br>
 
 ## Contact Information
 Email: Shobhitpanwar7@gmail.com <br>
