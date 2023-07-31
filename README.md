@@ -27,7 +27,7 @@ Durham College | April 2023 - Present | Ontario, Canada <br>
 5. Presented research findings to both technical and non-technical audiences through oral presentations and written reports. <br>
 
 ### Software Developer
-Tech Mahindra | January 2022 - December 2022
+Tech Mahindra | January 2022 - December 2022 <br>
 
 1. Leveraged C/C++ expertise and Git version control to contribute significantly to Rakuten Symphony client, delivering impactful results. <br>
 2. Spearheaded the development of the PTP protocol stack for 4G-5G, OAM, and platform teams, driving efficiency improvements by 15%. <br>
