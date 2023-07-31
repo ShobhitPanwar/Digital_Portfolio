@@ -1,3 +1,5 @@
+# My Digital Portfolio
+
 ## About Me
 I am a highly motivated and accomplished post-graduate student specializing in AI with a strong background in telecom and datacom domains. With 3.5 years of experience in software development, I bring a wealth of industry expertise to complement my academic achievements. Possessing a GPA of 4.9 out of 5, I am actively seeking co-op/full-time opportunities in the telecom industry where I can leverage my extensive knowledge in telecom, datacom, and AI, along with my development expertise. Proficient in machine learning, data analysis, protocol development, and software engineering, I am poised to contribute to the success of a telecom company by driving innovation and enhancing efficiency. My proven track record in collaborative teamwork and the ability to develop cutting-edge solutions make me a valuable asset in the pursuit of excellence in the telecom domain. Intellectually curious – will look at things critically and ask new questions.
 
