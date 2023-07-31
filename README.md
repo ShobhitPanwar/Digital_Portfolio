@@ -4,63 +4,63 @@ I am a highly motivated and accomplished post-graduate student specializing in A
 ## Skills
 Machine learning, Deep Learning, NLP, NLTK, SVM, KNN, linear regression, decision trees, random forest, logistic regression, ANN, CNN, PyTorch <br>
 Data Visualization, Data Science, Data Processing, TensorFlow, scikit-learn, pandas, SciPy <br>
-C, C++, Python, Git, GitHub, Microsoft Azure, AWS, Tableau, SQL
-Linux, Windows, Agile Methodology, SDLC, OOPs, Cloud Solutions
-Computer Vision, High-Performance Computing, Virtual Machines, Cloud Services
-Problem-Solving, Automation, Data Structures, Algorithms
+C, C++, Python, Git, GitHub, Microsoft Azure, AWS, Tableau, SQL <br>
+Linux, Windows, Agile Methodology, SDLC, OOPs, Cloud Solutions <br>
+Computer Vision, High-Performance Computing, Virtual Machines, Cloud Services <br>
+Problem-Solving, Automation, Data Structures, Algorithms <br>
 Telecom Domains: Radio Units (RU), Distributed Units (DU), 4G-5G, Datacom, Switches, Routers, Protocol Development
 
 ## Education
-Artificial Intelligence, Durham College, Oshawa, Ontario, Canada, 2023, GPA: 4.9/5
+Artificial Intelligence, Durham College, Oshawa, Ontario, Canada, 2023, GPA: 4.9/5 <br>
 Bachelor of Technology, DIT University, Dehradun, Uttarakhand, India, 2019, GPA: 7.79/10
 
 ## Work Experience
 ### Research Assistant
-Durham College | April 2023 - Present | Ontario, Canada
+Durham College | April 2023 - Present | Ontario, Canada <br>
 
-Collaborated with a team of researchers to develop and implement machine learning models for fraud detection.
-Conducted data analysis and preprocessing to identify patterns and anomalies in large datasets.
-Utilized Python programming language to develop and optimize machine learning models.
-Contributed to the design and execution of experiments to evaluate model performance and accuracy.
+Collaborated with a team of researchers to develop and implement machine learning models for fraud detection. <br>
+Conducted data analysis and preprocessing to identify patterns and anomalies in large datasets. <br>
+Utilized Python programming language to develop and optimize machine learning models. <br>
+Contributed to the design and execution of experiments to evaluate model performance and accuracy. <br>
 Presented research findings to both technical and non-technical audiences through oral presentations and written reports.
 
 ### Software Developer
 Tech Mahindra | January 2022 - December 2022
 
-Leveraged C/C++ expertise and Git version control to contribute significantly to Rakuten Symphony client, delivering impactful results.
-Spearheaded the development of the PTP protocol stack for 4G-5G, OAM, and platform teams, driving efficiency improvements by 15%.
-Collaborated seamlessly on different radio units (RU) and distributed units (DU), achieving a 20% reduction in development time.
-Played a key role in projects involving Ublox GNSS modules, resulting in a 10% improvement in system functionality.
-Automated testing scripts using Python, reducing testing time by 20% and enhancing overall testing accuracy.
-Created system requirements, technical specifications, and test plans, ensuring successful project execution with an 18% reduction in errors.
+Leveraged C/C++ expertise and Git version control to contribute significantly to Rakuten Symphony client, delivering impactful results. <br>
+Spearheaded the development of the PTP protocol stack for 4G-5G, OAM, and platform teams, driving efficiency improvements by 15%. <br>
+Collaborated seamlessly on different radio units (RU) and distributed units (DU), achieving a 20% reduction in development time. <br>
+Played a key role in projects involving Ublox GNSS modules, resulting in a 10% improvement in system functionality. <br>
+Automated testing scripts using Python, reducing testing time by 20% and enhancing overall testing accuracy. <br>
+Created system requirements, technical specifications, and test plans, ensuring successful project execution with an 18% reduction in errors. <br>
 
 ### Software Developer
-Wipro Limited | August 2019 - January 2022
+Wipro Limited | August 2019 - January 2022<br>
 
-Developed cutting-edge software for industry giants Cisco and Rockwell Automation, utilizing C/C++ and Unix. Employed version control systems ClearCase, ACME, and Git, ensuring streamlined development processes.
-Successfully implemented and optimized L2/L3 networking protocols, resolving bugs in critical protocols such as PTP, MACSec, PRP, REP, VLAN, STP, ARP, and TCP, resulting in an 8% improvement in protocol efficiency.
-Improved testing processes by automating scripts using Python, resulting in increased efficiency and accuracy while reducing testing time by 13%.
-Drove innovation by designing and developing new features, conducting rigorous unit testing, performing bug fixing, and actively participating in code reviews, ensuring high-quality code and reducing error rates by 6%.
-Collaborated seamlessly with the TAC team, providing expert support in handling customer issues and ensuring the timely delivery of CISCO IE switches (e.g., IE2000, IE4000, IE4010, IE5000) and RA startix switches (e.g., s5400, s5410), achieving a customer satisfaction rating of 94%.
+Developed cutting-edge software for industry giants Cisco and Rockwell Automation, utilizing C/C++ and Unix. Employed version control systems ClearCase, ACME, and Git, ensuring streamlined development processes. <br>
+Successfully implemented and optimized L2/L3 networking protocols, resolving bugs in critical protocols such as PTP, MACSec, PRP, REP, VLAN, STP, ARP, and TCP, resulting in an 8% improvement in protocol efficiency. <br>
+Improved testing processes by automating scripts using Python, resulting in increased efficiency and accuracy while reducing testing time by 13%. <br>
+Drove innovation by designing and developing new features, conducting rigorous unit testing, performing bug fixing, and actively participating in code reviews, ensuring high-quality code and reducing error rates by 6%. <br>
+Collaborated seamlessly with the TAC team, providing expert support in handling customer issues and ensuring the timely delivery of CISCO IE switches (e.g., IE2000, IE4000, IE4010, IE5000) and RA startix switches (e.g., s5400, s5410), achieving a customer satisfaction rating of 94%. <br>
 
 ## Educational Projects
 ### Handwritten Alphabet Recognizer Using Python
 
-Created a user interface to recognize the handwritten English alphabet.
-Utilized deep learning techniques to implement a convolution neural network (CNN) to build an alphabet recognizer model.
-Trained the model with a dataset of 800,000 images, and achieved a 93% accuracy rate in classifying and recognizing different alphabets.
-Libraries/Tools used: Keras, TensorFlow, scikit-learn, gradio, PIL, pandas, numpy, seaborn, and matplotlib.
+Created a user interface to recognize the handwritten English alphabet. <br>
+Utilized deep learning techniques to implement a convolution neural network (CNN) to build an alphabet recognizer model. <br>
+Trained the model with a dataset of 800,000 images, and achieved a 93% accuracy rate in classifying and recognizing different alphabets. <br>
+Libraries/Tools used: Keras, TensorFlow, scikit-learn, gradio, PIL, pandas, numpy, seaborn, and matplotlib. <br>
 Spam Email Detector Using Python
 
 ### Created an in-built Python prompt to detect spam emails.
-Used Naïve Bayes to create a model which detected whether an email was spam or not.
-Ensured the user’s password was encrypted and login credentials stored in the database.
-Libraries/Tools used: sqlite3, scikit-learn, pandas, and string.
-Forecasting COVID-19 Death and Recovery Cases Using Python
+Used Naïve Bayes to create a model which detected whether an email was spam or not. <br>
+Ensured the user’s password was encrypted and login credentials stored in the database. <br>
+Libraries/Tools used: sqlite3, scikit-learn, pandas, and string. <br>
+Forecasting COVID-19 Death and Recovery Cases Using Python <br>
+Used Tableau to visualize the Covid-19 spread pattern across the globe. <br>
+Used Facebook’s Prophet library to create a model which forecasts the death rate, recovery rate, and new confirmed cases rates. <br>
+Libraries/tools: Tableau, Prophet, numpy, pandas, seaborn, matplotlib, plotly, jinja2, datetime. <br>
 
-Used Tableau to visualize the Covid-19 spread pattern across the globe.
-Used Facebook’s Prophet library to create a model which forecasts the death rate, recovery rate, and new confirmed cases rates.
-Libraries/tools: Tableau, Prophet, numpy, pandas, seaborn, matplotlib, plotly, jinja2, datetime.
-Contact Information
-Email: [Your Email Address]
-LinkedIn: [LinkedIn Profile URL]
+## Contact Information
+Email: Shobhitpanwar7@gmail.com
+LinkedIn: https://www.linkedin.com/in/shobhit-panwar-4b56b013b/
